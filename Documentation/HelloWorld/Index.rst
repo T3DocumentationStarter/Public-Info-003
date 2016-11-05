@@ -2,7 +2,7 @@
 .. include:: ../Includes.txt
 
 =======================
-Workspace Documentation
+Documentation
 =======================
 
 Wiki
